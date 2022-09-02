@@ -1,5 +1,4 @@
 package CalculatorPackage;
-
 public class Calculator {
 	public static void main(String[] args) {
 		int height1 = 72;
