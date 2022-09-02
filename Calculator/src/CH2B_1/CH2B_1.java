@@ -10,6 +10,7 @@ public class CH2B_1 {
 		System.out.println(variable);
 		String publicvar = "mutable?";
 		System.out.println(publicvar);
+		//Commented out because it causes runtime errors
 		//public String innerpublic = "test";
 		//System.out.println(innerpublic);
 	}
